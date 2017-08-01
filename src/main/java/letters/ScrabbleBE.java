@@ -12,6 +12,30 @@ public class ScrabbleBE {
         Map<Character, Integer> scrabbleMap = new HashMap<Character, Integer>();
         scrabbleMap.put('a', 1);
         scrabbleMap.put('e', 1);
+        scrabbleMap.put('i', 1);
+        scrabbleMap.put('o', 1);
+        scrabbleMap.put('u', 1);
+        scrabbleMap.put('l', 1);
+        scrabbleMap.put('n', 1);
+        scrabbleMap.put('r', 1);
+        scrabbleMap.put('s', 1);
+        scrabbleMap.put('t', 1);
+        scrabbleMap.put('d', 2);
+        scrabbleMap.put('g', 2);
+        scrabbleMap.put('b', 3);
+        scrabbleMap.put('c', 3);
+        scrabbleMap.put('m', 3);
+        scrabbleMap.put('p', 3);
+        scrabbleMap.put('f', 4);
+        scrabbleMap.put('h', 4);
+        scrabbleMap.put('v', 4);
+        scrabbleMap.put('w', 4);
+        scrabbleMap.put('y', 4);
+        scrabbleMap.put('k', 5);
+        scrabbleMap.put('j', 8);
+        scrabbleMap.put('x', 8);
+        scrabbleMap.put('q', 10);
+        scrabbleMap.put('z', 10);
 
         int score =0;
         for (char checkLetter : wordArray) {
