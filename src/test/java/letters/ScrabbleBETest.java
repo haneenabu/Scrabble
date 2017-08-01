@@ -19,9 +19,21 @@ public class ScrabbleBETest {
         assertEquals(expected, testScarabble.calculateScore("a"));
     }
     @Test
-    public void calculateScore_returnScoreForSingleLetter_e() throws Exception{
+    public void calculateScore_returnScoreForRepeatingLetter_2() throws Exception{
+        ScrabbleBE testScarabble = new ScrabbleBE();
+        Integer expected = 2;
+        assertEquals(expected, testScarabble.calculateScore("aa"));
+    }
+    @Test
+    public void calculateScore_returnScoreForTwoDiffLetters_2() throws Exception{
         ScrabbleBE testScarabble = new ScrabbleBE();
         Integer expected = 2;
         assertEquals(expected, testScarabble.calculateScore("ae"));
+    }
+    @Test
+    public void calculateScore_returnScoreForTwoDiffLettersAndRepeat_3() throws Exception{
+        ScrabbleBE testScarabble = new ScrabbleBE();
+        Integer expected = 3;
+        assertEquals(expected, testScarabble.calculateScore("aee"));
     }
 }

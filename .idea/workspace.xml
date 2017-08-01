@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e407ca0b-b428-4bf9-a203-fc623d0cfb78" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/App.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/letters/ScrabbleBE.class" afterPath="$PROJECT_DIR$/build/classes/main/letters/ScrabbleBE.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/test/letters/ScrabbleBETest.class" afterPath="$PROJECT_DIR$/build/classes/test/letters/ScrabbleBETest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/letters/ScrabbleBE.java" afterPath="$PROJECT_DIR$/src/main/java/letters/ScrabbleBE.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/letters/ScrabbleBETest.java" afterPath="$PROJECT_DIR$/src/test/java/letters/ScrabbleBETest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -25,11 +30,11 @@
       <file leaf-file-name="ScrabbleBE.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/letters/ScrabbleBE.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+            <state relative-caret-position="399">
+              <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#349#366#0" expanded="true" />
+                <element signature="e#285#305#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -38,8 +43,8 @@
       <file leaf-file-name="ScrabbleBETest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/letters/ScrabbleBETest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="28" lean-forward="false" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+            <state relative-caret-position="427">
+              <caret line="33" column="68" lean-forward="false" selection-start-line="33" selection-start-column="68" selection-end-line="33" selection-end-column="68" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -52,8 +57,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -345,15 +350,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/letters/ScrabbleBETest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/App.java" />
         <option value="$PROJECT_DIR$/src/main/java/letters/ScrabbleBE.java" />
+        <option value="$PROJECT_DIR$/src/test/java/letters/ScrabbleBETest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1254" />
-    <option name="y" value="41" />
-    <option name="width" value="1400" />
+    <option name="x" value="1081" />
+    <option name="y" value="94" />
+    <option name="width" value="1479" />
     <option name="height" value="1074" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -447,6 +453,28 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
               <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Scrabble" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Scrabble" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -774,39 +802,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ScrabbleBETest - 2017.08.01 at 11h 45m 56s.xml">
+    <history-entry file="ScrabbleBETest - 2017.08.01 at 13h 32m 07s.xml">
       <configuration name="ScrabbleBETest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ScrabbleBETest - 2017.08.01 at 11h 46m 51s.xml">
+    <history-entry file="ScrabbleBETest - 2017.08.01 at 13h 32m 16s.xml">
       <configuration name="ScrabbleBETest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ScrabbleBETest - 2017.08.01 at 11h 47m 16s.xml">
+    <history-entry file="ScrabbleBETest - 2017.08.01 at 13h 33m 30s.xml">
       <configuration name="ScrabbleBETest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ScrabbleBETest - 2017.08.01 at 11h 47m 52s.xml">
+    <history-entry file="ScrabbleBETest - 2017.08.01 at 13h 55m 01s.xml">
       <configuration name="ScrabbleBETest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ScrabbleBETest - 2017.08.01 at 11h 48m 29s.xml">
+    <history-entry file="ScrabbleBETest - 2017.08.01 at 14h 23m 42s.xml">
       <configuration name="ScrabbleBETest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ScrabbleBETest - 2017.08.01 at 11h 48m 45s.xml">
+    <history-entry file="ScrabbleBETest - 2017.08.01 at 14h 27m 10s.xml">
       <configuration name="ScrabbleBETest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ScrabbleBETest - 2017.08.01 at 11h 49m 55s.xml">
+    <history-entry file="ScrabbleBETest - 2017.08.01 at 14h 36m 06s.xml">
       <configuration name="ScrabbleBETest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ScrabbleBETest - 2017.08.01 at 11h 51m 16s.xml">
+    <history-entry file="ScrabbleBETest - 2017.08.01 at 14h 37m 07s.xml">
       <configuration name="ScrabbleBETest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ScrabbleBETest - 2017.08.01 at 11h 56m 20s.xml">
+    <history-entry file="ScrabbleBETest - 2017.08.01 at 14h 38m 26s.xml">
       <configuration name="ScrabbleBETest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ScrabbleBETest - 2017.08.01 at 11h 57m 19s.xml">
+    <history-entry file="ScrabbleBETest - 2017.08.01 at 14h 39m 11s.xml">
       <configuration name="ScrabbleBETest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1254" y="41" width="1400" height="1074" extended-state="0" />
+    <frame x="1081" y="94" width="1479" height="1074" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -818,13 +846,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935324" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32935324" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32935324" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935324" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23664638" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -852,10 +880,37 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8866">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="93" lean-forward="false" selection-start-line="12" selection-start-column="93" selection-end-line="12" selection-end-column="93" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/letters/ScrabbleBETest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="28" lean-forward="false" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        <state relative-caret-position="427">
+          <caret line="33" column="68" lean-forward="false" selection-start-line="33" selection-start-column="68" selection-end-line="33" selection-end-column="68" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -864,11 +919,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/letters/ScrabbleBE.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        <state relative-caret-position="399">
+          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#349#366#0" expanded="true" />
+            <element signature="e#285#305#0" expanded="true" />
           </folding>
         </state>
       </provider>
